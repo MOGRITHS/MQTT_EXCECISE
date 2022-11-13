@@ -12,7 +12,6 @@ while True:
         if(i==90):
             mqtt.publish("MOGRITHS","i is 89")
             mqtt.publish("MOGRITHS","----------------")
-            count+=1
         
             
 
